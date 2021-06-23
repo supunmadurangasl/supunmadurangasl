@@ -1,4 +1,4 @@
-# aboutme
+# පොඩි සටහනක් මන් ගැන  about me  
 # Hey, I am supun <img src="https://camo.githubusercontent.com/2c8b3670d933220ae3c023fa1d568682975cce3f10799d0d3ff5ecac394b4ee8/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f31326f75664342304d795a31476f2f67697068792e676966" width="50px">
 
 
@@ -64,6 +64,8 @@ You can use the website to generate badges: https://shields.io/
 <a href="https://t.me/supunma" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/335_Telegram_logo-256.png"  height="40" width="40" /></a> &nbsp;&nbsp;
 <a href="https://www.facebook.com/slgeekshowyt" target="blank"><img align="center" src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_facebook-256.png" height="40" width="40" /></a> &nbsp;&nbsp;
 <a href="https://www.youtube.com/channel/UCvYfJcTr8RY72dIapzMqFQA" target="blank"><img align="center" src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_youtube-256.png" height="40" width="40" /></a> &nbsp;&nbsp;
+  
+  ඔයාගෙ දැනුම බෙදාගන්න එකතු වෙන්න අපිත් එක්ක 
 
 
 
