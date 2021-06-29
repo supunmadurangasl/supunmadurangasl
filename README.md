@@ -1,7 +1,9 @@
 # Since the repository here does not work, you can visit my other github profile ...
 # මෙතන තිබෙන repository  වැඩ නොකරන බැවින් ඔබ මාගේ අනෙකුත් github profile එකට පිවිසෙන්න...
 <img align="right" src="https://github.com/RazorKenway/RazorKenway/raw/main/Developer.gif" style="max-width:100%;">
-# මේම රුපය මත ඔබන්න  
+
+###  මේම රුපය මත ඔබන්න 
+
 <a href="https://github.com/youtubeslgeekshow"><img src="https://telegra.ph/file/8fb895239183bf8a0c75a.jpg"></a>
 
 
