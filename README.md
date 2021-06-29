@@ -1,6 +1,7 @@
 # Since the repository here does not work, you can visit my other github profile ...
 # මෙතන තිබෙන repository  වැඩ නොකරන බැවින් ඔබ මාගේ අනෙකුත් github profile එකට පිවිසෙන්න...
 <img align="right" src="https://github.com/RazorKenway/RazorKenway/raw/main/Developer.gif" style="max-width:100%;">
+<a href="https://github.com/youtubeslgeekshow"><img src="https://telegra.ph/file/8fb895239183bf8a0c75a.jpg"></a>
 
 
 [![Youtube](https://img.shields.io/badge/YouTube%20Channel-ff0000?style=flat&labelColor=224242&logoColor=white&for-the-badge&logo=youtube)](https://www.youtube.com/channel/UCvYfJcTr8RY72dIapzMqFQA?sub_confirmation=1)&nbsp;
